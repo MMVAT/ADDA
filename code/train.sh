@@ -1,0 +1,1 @@
+python main.py --mode train_model --num_layers 8 --lr 8e-5 --refine_label refine_label/final_label.npz --save_model true --checkpoint adda.pt

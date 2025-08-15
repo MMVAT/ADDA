@@ -1,0 +1,1 @@
+python main.py --mode test_adda --num_layers 8 --checkpoint adda.pt
