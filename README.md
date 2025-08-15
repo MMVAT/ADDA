@@ -62,7 +62,7 @@ bash train.sh
 bash test.sh
 ```
 
-# Acknowledgement
+# 🤝 Acknowledgement
 We build ADDA codebase heavily on the codebase of AVVP-ECCV20, VALOR. We sincerely thank the authors for open-sourcing! We also thank CLIP and CLAP for open-sourcing pre-trained models.
 
 
